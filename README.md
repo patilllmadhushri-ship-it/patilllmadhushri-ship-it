@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## Hi, I'm Madhushri 👋
 
 **Voice AI and ML engineer** in India.BE in AI Engineering, KLE Technological University, 2026. Open to full-time roles and research internships in speech, Indic NLP, LLM agents, or AI infrastructure.
